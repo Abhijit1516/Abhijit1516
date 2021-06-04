@@ -1,0 +1,8 @@
+git init
+git add .  -> for all files
+git add file1 file2  -> multiple file
+git status  -> to check file status (staged/ tracked/ untracked)
+ git remote add 
+ git push -u origin master
+git clone https://github.com/Abhijit1516/IES.git
+git checkout -b cliIES
