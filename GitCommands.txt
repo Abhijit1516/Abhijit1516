@@ -6,3 +6,11 @@ git status  -> to check file status (staged/ tracked/ untracked)
  git push -u origin master
 git clone https://github.com/Abhijit1516/IES.git
 git checkout -b cliIES
+
+
+git checkout -b Abhijit1516
+git add .
+
+
+
+git clone --branch <branchname> --single-branch <remote-repo-url>
